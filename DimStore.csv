@@ -1,0 +1,4 @@
+StoreId,StoreName,City,Region,Latitude,Longitude
+S-LND-01,Lakeshore London 1,London,UK,48.8566,2.3522
+S-IST-01,Lakeshore Istanbul 1,Istanbul,Turkey,52.52,13.405
+S-AMS-01,Lakeshore Amsterdam 1,Amsterdam,Netherlands,52.3676,4.9041
