@@ -1,0 +1,5 @@
+StoreId,StoreName,City,Region,Latitude,Longitude
+S-LND-01,Coca Cola London 1,London,UK,48.8566,2.3522
+S-IST-01,Coca Cola Istanbul 1,Istanbul,Turkey,52.52,13.405
+S-AMS-01,Coca Cola Amsterdam 1,Amsterdam,Netherlands,52.3676,4.9041
+S-ATH-01,Coca Cola Athens 1,Athens,Greece,37.9838,23.7275
